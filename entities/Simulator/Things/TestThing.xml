@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-08-09T09:36:38.217Z"
+         lastModifiedDate="2020-08-09T09:53:49.293Z"
          name="TestThing"
          projectName="Simulator"
          published="false"
@@ -65,6 +65,7 @@
                                     <Row>
                                         <code>
                                         <![CDATA[
+                                        /*Test Thing update just now*/
                                         var params = {
                                             infoTableName : "InfoTable",
                                             dataShapeName : "TestResultData"
